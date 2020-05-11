@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+    text-decoration-line: underline;
+    color: darkgreen;
+    font-family: Georgia;
+    font-size: 50px;
+}
+body{
+    background-image: url("../img/burger.jpg");
+}
+h4{
+    font-size: 20px;
+    color: darkgreen;
+}
+div{
+    border: 5px solid red;
+}

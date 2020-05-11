@@ -1,12 +1,21 @@
+*{
+    padding: 0;
+}
 body{
+    padding: 10px;
     background-color: powderblue;
     font-family: Georgia;
 }
 h3{
+    background-color: lightcoral;
+    padding-top: 15px;
+    text-align: center;
+    font-size: 2em;
+    border: 5px solid teal;
     text-decoration: lightseagreen;
     text-decoration-line: underline;
 }
 table, th, td{
-    border: 1px solid red;
+    border: 2px solid red;
     background-color: navajowhite;
 }
