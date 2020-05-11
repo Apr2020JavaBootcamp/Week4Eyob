@@ -1,0 +1,12 @@
+body{
+    background-color: powderblue;
+    font-family: Georgia;
+}
+h3{
+    text-decoration: lightseagreen;
+    text-decoration-line: underline;
+}
+table, th, td{
+    border: 1px solid red;
+    background-color: navajowhite;
+}
