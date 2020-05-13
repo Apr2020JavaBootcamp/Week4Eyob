@@ -1,0 +1,61 @@
+body{
+    background-image: url("../img/recipe.jpg");
+    height: 1920px;
+    padding-top: 50px;
+}
+.container{
+    color: olivedrab;
+    font-size: 4em;
+    font-family: Georgia;
+    font-style: italic;
+    text-decoration-line: underline;
+    text-align: center;
+}
+.container-2{
+    color: black;
+    font-family: Georgia;
+    font-style: italic;
+}
+.container-3{
+    color: red;
+    font-size: 2em;
+    font-family: Georgia;
+}
+.container-4{
+    color: black;
+    font-size: 3em;
+    font-family: Georgia;
+    font-style: italic;
+    text-align: center;
+}
+.contact-1{
+    color: revert;
+    font-size: 2em;
+    font-family: Georgia;
+    font-style: italic;
+}
+.card{
+    text-align: center;
+    background-color: lightblue;
+    color: black;
+    font-family: Georgia;
+    font-size: 20px;
+    margin: 50px 10px 70px 100px;
+    width: 500px;
+    height: 500px;
+}
+.best-bro {
+    color: black;
+    font-size: 20px;
+    font-family: Georgia;
+    margin: 50px 100px 50px 100px;
+}
+.best-bro h4{
+    text-decoration-line: underline;
+    font-weight: bold;
+}
+.best-bro h3{
+    font-family: revert;
+    font-weight: normal;
+}
+
