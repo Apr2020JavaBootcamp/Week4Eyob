@@ -1,0 +1,43 @@
+body{
+    background-image: url("../img/Java.jpg");
+}
+.table{
+    color: wheat;
+    width: 1200px;
+   margin-left: 60px;
+}
+.table th{
+    font-weight: bolder;
+    font-size: 30px;
+}
+.info{
+    border: wheat solid 2px;
+    margin: 0 150px 0 150px;
+}
+.intellij{
+    color: wheat;
+    margin: 0 150px 0 150px;
+    border: wheat solid 2px;
+    padding-bottom: 90px;
+}
+.link{
+    text-align: center;
+    font-size: 3em;
+}
+.home-2{
+    color: wheat;
+    padding-bottom: 90px;
+}
+.home-1{
+    font-size: 3em;
+    color: saddlebrown;
+    text-align: center;
+    text-decoration-line: underline;
+}
+th td {
+    text-align: center;
+}
+.help-1{
+    margin: 0 150px 0 150px;
+    color: wheat;
+}
