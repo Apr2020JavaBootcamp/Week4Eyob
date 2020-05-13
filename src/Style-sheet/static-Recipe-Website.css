@@ -1,7 +1,7 @@
 body{
     background-image: url("../img/recipe.jpg");
-    height: 1920px;
     padding-top: 50px;
+    border: 10px solid olivedrab;
 }
 .container{
     color: olivedrab;
@@ -26,7 +26,8 @@ body{
     font-size: 3em;
     font-family: Georgia;
     font-style: italic;
-    text-align: center;
+    text-align: left;
+    padding-left: 15px;
 }
 .contact-1{
     color: revert;
@@ -45,6 +46,7 @@ body{
     height: 500px;
 }
 .best-bro {
+    text-align: center;
     color: black;
     font-size: 20px;
     font-family: Georgia;
@@ -53,9 +55,14 @@ body{
 .best-bro h4{
     text-decoration-line: underline;
     font-weight: bold;
+    text-align: left;
 }
 .best-bro h3{
+    padding-bottom: 80px;
     font-family: revert;
     font-weight: normal;
+}
+.best-bro li{
+    text-align: left;
 }
 
