@@ -2,7 +2,10 @@ body{
     background-image: url("../img/recipe.jpg");
     padding-top: 50px;
     border: 10px solid olivedrab;
+    min-height: 100%;
+    min-width: 1024px;
 }
+
 .container{
     color: olivedrab;
     font-size: 4em;
